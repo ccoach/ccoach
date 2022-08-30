@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccoach
-- 👀 I’m interested in Software architecture, cool java framewworks, agile best practices
+- 👀 I’m interested in Software architecture, cool java frameworks, agile best practices
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on shared statistical GSPM project
 - 📫 How to reach me: yann@itseamslike.com
